@@ -83,13 +83,14 @@ We’re excited to collaborate! Whether you’re improving existing content or a
     ```
 5. **Submit a Pull Request** and join our community of testers.
 
-## 📬 Contact
-
-Have questions or suggestions? Feel free to reach out:
-
-- **Email**: [redowane.ahmed@example.com](mailto:redowane.ahmed@example.com)
-- **GitHub**: [RedowaneAhmed](https://github.com/RedowaneAhmed)
+Here's the updated contact section:
 
 ---
 
-This structure places your personal project at the center, highlighting the testing artifacts you've developed specifically for the EasyPay MFS Mobile App. It ensures that the reader sees your practical work upfront, making your repository both unique and professional. Let me know if you need any more tweaks!
+## 📬 Contact
+
+For any inquiries or suggestions, feel free to reach out:
+
+- **Email**: [redowaneahmed8@gmail.com](mailto:redowaneahmed8@gmail.com)
+- **Phone**: [+8801304396330](tel:+8801304396330)
+- **LinkedIn**: [Redowane Ahmed](https://www.linkedin.com/in/redowaneahmed/)
